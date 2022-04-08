@@ -1,0 +1,6 @@
+this contains a code for the arduino as a device that takes the id code
+from the keypad and a processing ide code to process the input from the aduino using serial port of the pc
+and also the processing ide checkes the input data from a webserver and gives signal back to the arduino and the 
+arduino will say pass and fail according to the data.
+
+inside the folder processsing take data from serial contains the processing ide code and inside the com folder contains the arduino code.
